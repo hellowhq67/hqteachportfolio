@@ -181,15 +181,15 @@ export const companies = [
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "Firebase",
+    img: "https://firebase.google.com/static/images/brand-guidelines/product-logo.png",
+    nameImg: "/firebase.svg",
   },
   {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "Mongodb",
+    img: "/mongodbicon.svg",
+    nameImg: "/mongodb.svg",
   },
 ];
 
